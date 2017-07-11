@@ -3,7 +3,7 @@
 # Thanks the_lord for the sniffing
 import os
 
-from dji_crc import *
+from table_crc import *
 import struct
 
 # Enter upgrade mode (delete old file if exists)
